@@ -1,3 +1,4 @@
+LOCAL
 # quest-git-conflicts
 
 Voici le fichier sur lequel je vais tenter de résoudre des conflits.
